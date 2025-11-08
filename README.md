@@ -27,7 +27,6 @@ The model performs well overall, especially for non-diabetic cases.
 However, it misses some diabetic cases, showing lower recall for class 1.
 
 ## Conclusion
-
 The model demonstrates good predictive performance but shows bias toward the non-diabetic class. Future improvements could involve:
 - Dataset balancing (e.g., SMOTE or undersampling)
 - Adjusting the classification threshold
